@@ -570,10 +570,10 @@ async function GetById (userId) {
 async function GetDatatables (userData) {
     const { 
         draw, 
-        order, 
+        // order, 
         start, 
         length, 
-        search,
+        // search,
         username, 
         nip, 
         nama_lengkap,
